@@ -1,0 +1,7 @@
+This says the use of all files in the directory.
+
+here, data folder holds the dataset with which we trained the model
+result holds the actual trained model
+main.py is the designing the model\
+test.py is the file which is run each time to predict the emotion of the audio and gives the result 
+convert_waves.py converts the audio file suitable for feature extraction
